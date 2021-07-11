@@ -1,2 +1,2 @@
 # ChitChat
-I will fuck you if you copy my code. Mind it!
+If you have copied my codes then you are a Bloody Looser. Or if you modify my codes then you are also a Bloody Looser.
