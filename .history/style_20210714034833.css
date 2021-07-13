@@ -151,6 +151,10 @@ nav {
     color: rgb(24, 8, 250);
 }
 
+.shortcut-links:hover {
+    background-color: #9a9a9a;
+}
+
 .important-links a img {
     width: 25px;
     margin-right: 15px;

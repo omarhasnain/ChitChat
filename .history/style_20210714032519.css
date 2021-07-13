@@ -227,7 +227,7 @@ nav {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: #1876f2;
+    background: #0b0d0f;
     font-size: 10px;
     padding: 4px 0;
     color: #fff;
@@ -507,8 +507,7 @@ nav {
 }
 
 .load-more-btn:hover {
-    background-color: grey;
-    color: #fff;
+    background-color: #fff;
 }
 
 .footer {
@@ -542,10 +541,6 @@ nav {
     text-decoration: none;
 }
 
-.user-profile p:hover {
-    color: #1876f2;
-}
-
 .dropdown-inner {
     padding: 20px;
 }
@@ -576,10 +571,6 @@ nav {
     align-items: center;
     justify-content: space-between;
     color: #626262;
-}
-
-.dropdown-links a:hover {
-    color: #1876f2;
 }
 
 #dark-btn {

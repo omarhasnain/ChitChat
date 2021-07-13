@@ -6,15 +6,15 @@
 }
 
 :root {
-    --body-color: #efefef;
-    --nav-color: blue;
-    --bg-color: #fff;
-}
-
-.dark-theme {
     --body-color: #0a0a0a;
     --nav-color: #000;
     --bg-color: #000;
+}
+
+.dark-theme {
+    --body-color: #efefef;
+    --nav-color: blue;
+    --bg-color: #fff;
 }
 
 body {
@@ -507,8 +507,7 @@ nav {
 }
 
 .load-more-btn:hover {
-    background-color: grey;
-    color: #fff;
+    background-color: #fff;
 }
 
 .footer {

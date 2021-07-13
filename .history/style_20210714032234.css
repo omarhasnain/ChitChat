@@ -145,10 +145,12 @@ nav {
 
 .important-links a:hover {
     color: blue;
+    text-shadow: 0 0 10px white, 0 0 20px #fff, 0 0 40px#fff, 0 0 80px #fff, 0 0 120px#fff;
 }
 
 .shortcut-links a:hover {
     color: rgb(24, 8, 250);
+    text-shadow: 0 0 10px white, 0 0 20px #fff, 0 0 40px#fff, 0 0 80px #fff, 0 0 120px#fff;
 }
 
 .important-links a img {
@@ -227,7 +229,7 @@ nav {
     bottom: 0;
     left: 0;
     width: 100%;
-    background: #1876f2;
+    background: #0b0d0f;
     font-size: 10px;
     padding: 4px 0;
     color: #fff;
@@ -252,6 +254,7 @@ nav {
 
 .online-list:hover {
     color: rgb(56, 11, 255);
+    text-shadow: 0 0 10px white, 0 0 20px #fff, 0 0 40px#fff, 0 0 80px #fff, 0 0 120px#fff;
 }
 
 .online-list .online img {
@@ -307,7 +310,6 @@ nav {
 
 .story p:hover {
     color: white;
-    text-shadow: 0 0 10px white, 0 0 20px #fff, 0 0 40px#fff, 0 0 80px #fff, 0 0 120px#fff;
 }
 
 .story-1 {
@@ -507,8 +509,7 @@ nav {
 }
 
 .load-more-btn:hover {
-    background-color: grey;
-    color: #fff;
+    background-color: #fff;
 }
 
 .footer {
@@ -542,10 +543,6 @@ nav {
     text-decoration: none;
 }
 
-.user-profile p:hover {
-    color: #1876f2;
-}
-
 .dropdown-inner {
     padding: 20px;
 }
@@ -576,10 +573,6 @@ nav {
     align-items: center;
     justify-content: space-between;
     color: #626262;
-}
-
-.dropdown-links a:hover {
-    color: #1876f2;
 }
 
 #dark-btn {

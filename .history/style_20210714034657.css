@@ -145,6 +145,7 @@ nav {
 
 .important-links a:hover {
     color: blue;
+    background-color: transparent;
 }
 
 .shortcut-links a:hover {
