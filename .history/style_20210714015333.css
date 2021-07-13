@@ -512,6 +512,7 @@ nav {
     position: absolute;
     width: 90%;
     max-width: 350px;
+    height: 500px;
     background: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
     border-radius: 4px;
@@ -528,32 +529,4 @@ nav {
 
 .dropdown-inner {
     padding: 20px;
-}
-
-.dropdown hr {
-    border: 0;
-    height: 1px;
-    background: #9a9a9a;
-    margin: 15px 0;
-}
-
-.dropdown-links {
-    display: flex;
-    align-items: center;
-    margin: 15px 0;
-}
-
-.dropdown-links .settings-icon {
-    width: 38px;
-    margin-right: 10px;
-    border-radius: 50%;
-}
-
-.dropdown-links a {
-    text-decoration: none;
-    display: flex;
-    flex: 1;
-    align-items: center;
-    justify-content: space-between;
-    color: #626262;
 }
