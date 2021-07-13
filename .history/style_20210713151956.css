@@ -16,7 +16,6 @@ nav {
     background: rgb(0, 0, 0);
     padding: 5px 5%;
     position: sticky;
-    top: 0;
     z-index: 100;
 }
 
