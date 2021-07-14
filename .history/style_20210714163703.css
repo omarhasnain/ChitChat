@@ -57,6 +57,7 @@ nav {
 
 .nav-left ul li:hover {
     background-color: #9a9a9a;
+    color: #1876f2;
 }
 
 .nav-left ul li img {
@@ -65,6 +66,10 @@ nav {
     cursor: pointer;
     flex: 1;
     display: inline-flex;
+}
+
+.nav-left ul li img:active {
+    background-color: #04AA6D;
 }
 
 .nav-user-icon img {

@@ -56,7 +56,8 @@ nav {
 }
 
 .nav-left ul li:hover {
-    background-color: #9a9a9a;
+    background-color: #626262;
+    color: #1876f2;
 }
 
 .nav-left ul li img {

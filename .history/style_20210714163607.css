@@ -57,6 +57,11 @@ nav {
 
 .nav-left ul li:hover {
     background-color: #9a9a9a;
+    color: #1876f2;
+}
+
+.nav-left ul li:active {
+    background-color: #04AA6D;
 }
 
 .nav-left ul li img {

@@ -43,7 +43,6 @@ nav {
 .nav-right {
     display: flex;
     align-items: center;
-    overflow: hidden;
 }
 
 .nav-left ul li {
@@ -52,11 +51,6 @@ nav {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    float: left;
-}
-
-.nav-left ul li:hover {
-    background-color: #9a9a9a;
 }
 
 .nav-left ul li img {
